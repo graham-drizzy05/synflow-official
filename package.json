@@ -1,0 +1,21 @@
+{
+  "name": "synflow-official",
+  "version": "1.0.0",
+  "description": "SynFlow - Modern Scalable Digital Solutions",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "web",
+    "automation",
+    "business"
+  ],
+  "author": "SynFlow",
+  "license": "ISC"
+}
